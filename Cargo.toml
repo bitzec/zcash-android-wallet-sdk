@@ -49,6 +49,7 @@ git = "https://github.com/str4d/librustzcash.git"
 rev = "afadab3173abbbfba9292b44dda0ee2bee0a47fc"
 
 [features]
+mainnet = ["zcash_client_sqlite/mainnet"]
 updater = ["futures", "grpc", "protobuf"]
 
 [lib]
