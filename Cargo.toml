@@ -22,31 +22,31 @@ protobuf = { version = "2", optional = true }
 
 [dependencies.ff]
 git = "https://github.com/str4d/librustzcash.git"
-rev = "afadab3173abbbfba9292b44dda0ee2bee0a47fc"
+rev = "4576303142b50190178d41aaf15a148461b7d3d5"
 
 [dependencies.pairing]
 git = "https://github.com/str4d/librustzcash.git"
-rev = "afadab3173abbbfba9292b44dda0ee2bee0a47fc"
+rev = "4576303142b50190178d41aaf15a148461b7d3d5"
 
 [dependencies.sapling-crypto]
 git = "https://github.com/str4d/librustzcash.git"
-rev = "afadab3173abbbfba9292b44dda0ee2bee0a47fc"
+rev = "4576303142b50190178d41aaf15a148461b7d3d5"
 
 [dependencies.zcash_client_backend]
 git = "https://github.com/str4d/librustzcash.git"
-rev = "afadab3173abbbfba9292b44dda0ee2bee0a47fc"
+rev = "4576303142b50190178d41aaf15a148461b7d3d5"
 
 [dependencies.zcash_client_sqlite]
 git = "https://github.com/str4d/librustzcash.git"
-rev = "afadab3173abbbfba9292b44dda0ee2bee0a47fc"
+rev = "4576303142b50190178d41aaf15a148461b7d3d5"
 
 [dependencies.zcash_primitives]
 git = "https://github.com/str4d/librustzcash.git"
-rev = "afadab3173abbbfba9292b44dda0ee2bee0a47fc"
+rev = "4576303142b50190178d41aaf15a148461b7d3d5"
 
 [dependencies.zcash_proofs]
 git = "https://github.com/str4d/librustzcash.git"
-rev = "afadab3173abbbfba9292b44dda0ee2bee0a47fc"
+rev = "4576303142b50190178d41aaf15a148461b7d3d5"
 
 [features]
 mainnet = ["zcash_client_sqlite/mainnet"]
